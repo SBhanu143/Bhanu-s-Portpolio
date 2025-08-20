@@ -1,9 +1,6 @@
 /**
-* Template Name: Bhanu's Portpolio
-* Template URL: https://bootstrapmade.com/Bhanu's Portpolio/
-* Updated: Jul 21 2025 with Bootstrap v5.3.7
-* Author: BootstrapMade.com
-* License: https://bootstrapmade.com/license/
+* Template Name: Bhanu's Portfolio
+* Template URL: https://bootstrapmade.com/Bhanu's Portfolio/
 */
 
 (function() {
